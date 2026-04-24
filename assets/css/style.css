@@ -458,6 +458,35 @@ section {
   .section-title span {
     font-size: 38px;
   }
+
+  .resume .resume-item h4{
+    font-size:14px;
+  }
+  .about .image{
+    margin-bottom: 15px;
+  }
+
+  .resume .resume-title{
+    font-size: 22px;
+  }
+
+  .portfolio #portfolio-flters li {
+    margin: 0 4px 7px 6px!important;
+    font-size: 13px!important;
+  }
+  .contact .social-links a, .inline-box a{
+    font-size: 10px!important;
+    display: inline-block;
+    color: #ffb727;
+    line-height: 1;
+    margin: 0 8px!important;
+  }
+  .contact .social-links{
+    margin-top:18px!important;
+  }
+  section {
+    padding: 30px 0!important;
+}
 }
 
 /*--------------------------------------------------------------
@@ -1149,7 +1178,7 @@ section {
 }
 
 .contact .info-box h3 {
-  font-size: 20px;
+  font-size: 16px;
   color: #777777;
   font-weight: 700;
   margin: 10px 0;
